@@ -48,6 +48,10 @@ KubeControl is a containerized application deployment platform built using Amazo
 
 4. **Deploy to EKS:**
     - Note: Configuration for EKS is not yet updated in this repository. Please configure your EKS cluster manually and update the deployment scripts accordingly.
+  
+      
+5. **Future Scope:**
+   - Chatbot Integration: Implement a chatbot to interact with the infrastructure deployed. This will allow users to perform deployment and management tasks through conversational interfaces, making the platform even more accessible and user-friendly.
 
 ## Usage
 
